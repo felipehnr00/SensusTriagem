@@ -1,6 +1,6 @@
-package br.com.javahealth.service;
+package br.com.sensustriagem.service;
 
-import br.com.javahealth.model.Paciente;
+import br.com.sensustriagem.model.Paciente;
 
 public class VerificadorInconsistencia {
 

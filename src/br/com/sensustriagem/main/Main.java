@@ -1,8 +1,8 @@
-package br.com.javahealth.main;
+package br.com.sensustriagem.main;
 
-import br.com.javahealth.model.Paciente;
-import br.com.javahealth.model.ResultadoTriagem;
-import br.com.javahealth.service.Triagem;
+import br.com.sensustriagem.model.Paciente;
+import br.com.sensustriagem.model.ResultadoTriagem;
+import br.com.sensustriagem.service.Triagem;
 
 public class Main {
 

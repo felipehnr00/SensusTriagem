@@ -1,4 +1,4 @@
-package br.com.javahealth.util;
+package br.com.sensustriagem.util;
 
 import io.github.cdimascio.dotenv.Dotenv;
 

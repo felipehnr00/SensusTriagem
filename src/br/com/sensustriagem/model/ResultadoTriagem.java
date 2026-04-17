@@ -1,4 +1,4 @@
-package br.com.javahealth.model;
+package br.com.sensustriagem.model;
 
 public class ResultadoTriagem {
 

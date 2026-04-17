@@ -1,6 +1,6 @@
-package br.com.javahealth.service;
+package br.com.sensustriagem.service;
 
-import br.com.javahealth.util.Constantes;
+import br.com.sensustriagem.util.Constantes;
 import okhttp3.*;
 import java.io.IOException;
 
