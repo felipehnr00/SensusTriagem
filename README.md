@@ -20,6 +20,7 @@ Para rodar este projeto na sua máquina, siga os passos abaixo:
 
 Clonar o repositório:
 git clone https://github.com/felipehnr00/SensusTriagem.git
+
 Configurar as chaves:
 Crie um arquivo chamado .env na raiz do projeto (use o arquivo env.example como base) e insira suas credenciais da Azure
 Compilar e Rodar:
