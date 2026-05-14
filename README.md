@@ -1,100 +1,48 @@
-🏥 SensusTriagem
+# SensusTriagem
 
-Sistema inteligente de triagem hospitalar desenvolvido em Java, com integração a recursos de Inteligência Artificial da Microsoft Azure, com o objetivo de apoiar a classificação inicial de pacientes de forma mais ágil, organizada e eficiente.
+Sistema acadêmico de triagem hospitalar desenvolvido em Java, com foco em organização de atendimentos, lógica de programação e aplicação de conceitos de inteligência artificial em nuvem.
 
----
+## Objetivo
 
-📌 Sobre o Projeto
+O SensusTriagem tem como objetivo simular um sistema de apoio à triagem hospitalar, auxiliando na organização inicial de pacientes e na priorização de atendimentos com base em informações fornecidas durante o cadastro.
 
-O SensusTriagem foi idealizado como uma solução acadêmica com foco em otimizar o processo inicial de atendimento hospitalar, auxiliando na coleta de informações do paciente e na priorização de casos conforme a gravidade apresentada.
+## Tecnologias utilizadas
 
-A proposta do sistema é unir Programação Orientada a Objetos (POO) com serviços de IA em nuvem, criando uma aplicação que simula um cenário real de apoio à decisão clínica.
+- Java
+- Microsoft Azure AI
+- Git
+- GitHub
 
----
+## Funcionalidades
 
-🎯 Objetivo
+- Cadastro de pacientes
+- Registro de informações básicas para triagem
+- Organização de atendimentos por prioridade
+- Aplicação de lógica de programação para apoio à tomada de decisão
+- Integração acadêmica com conceitos de inteligência artificial em nuvem
 
-Desenvolver uma aplicação capaz de:
+## Aprendizados
 
-✅ Registrar informações iniciais do paciente
-✅ Organizar sintomas e dados clínicos básicos
-✅ Auxiliar na classificação de prioridade de atendimento
-✅ Utilizar recursos de IA para apoiar análises e recomendações
-✅ Simular um fluxo de triagem mais inteligente e eficiente
+Durante o desenvolvimento do projeto, foram praticados conceitos como:
 
----
+- Programação orientada a objetos
+- Estruturação de classes
+- Métodos e atributos
+- Lógica condicional
+- Organização de código
+- Versionamento com Git e GitHub
+- Aplicação de tecnologia em um problema real
 
-🚀 Tecnologias Utilizadas
+## Contexto do projeto
 
-- ☕ Java
-- 🧱 Programação Orientada a Objetos (POO)
-- ☁️ Microsoft Azure AI Services
-- 🔗 Integração com APIs
-- 🗃️ Estruturação de dados e regras de negócio
-- 🌐 Git & GitHub
+Este projeto foi desenvolvido com fins acadêmicos, como forma de aplicar conhecimentos de programação, tecnologia em saúde e inteligência artificial em um cenário prático.
 
----
+## Status
 
-🧠 Aplicação de Inteligência Artificial
+Projeto em desenvolvimento e sujeito a melhorias futuras.
 
-O projeto utiliza recursos da plataforma Microsoft Azure para agregar inteligência ao processo de triagem, permitindo explorar conceitos de:
+## Autor
 
-- análise de dados clínicos;
-- apoio à tomada de decisão;
-- automação de processos;
-- integração entre software e IA em nuvem.
-
-Essa abordagem amplia a visão do projeto além do desenvolvimento tradicional, aproximando-o de soluções modernas aplicadas à saúde digital.
-
----
-
-🏗️ Arquitetura do Projeto
-
-O sistema foi estruturado com base em princípios de orientação a objetos, buscando:
-
-- separação de responsabilidades;
-- organização modular do código;
-- facilidade de manutenção;
-- escalabilidade para novas funcionalidades;
-- reutilização de componentes.
-
----
-
-📚 Aprendizados
-
-Durante o desenvolvimento do projeto, foram aprofundados conhecimentos em:
-
-- encapsulamento;
-- classes e objetos;
-- herança e polimorfismo;
-- modelagem de domínio;
-- integração com serviços externos;
-- versionamento com Git;
-- documentação técnica de projeto.
-
----
-
-🔮 Possíveis Evoluções
-
-Funcionalidades futuras:
-
-- interface gráfica para uso clínico;
-- persistência de dados em banco SQL;
-- dashboard com métricas de atendimento;
-- autenticação de usuários;
-- integração com prontuário eletrônico;
-- modelos preditivos mais avançados com IA.
-
----
-
-👨‍💻 Desenvolvido por
-
-Felipe Honório
-Estudante de Computer Science | Interesse em Desenvolvimento de Software, Dados e Cloud
-
-🔗 GitHub: [https://github.com/felipehnr00]
-🔗 LinkedIn: [linkedin.com/in/felipehonorio00/]
-
----
-
-«Projeto desenvolvido com finalidade acadêmica, aplicado como portfólio prático para consolidação de conhecimentos em desenvolvimento orientado a objetos, integração com cloud e aplicações de IA.»
+Felipe Honório  
+Estudante de Ciência da Computação  
+Brasília - DF
